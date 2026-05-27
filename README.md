@@ -1,4 +1,4 @@
-#PrivateGPT – AI-Powered Private Document Intelligence System
+# PrivateGPT – AI-Powered Private Document Intelligence System
 
 ## Overview
 PrivateGPT is an advanced AI-powered document intelligence system that enables users to interact with their documents using Natural Language Processing and Large Language Models (LLMs). The system allows users to upload PDFs, Word files, text documents, spreadsheets, and presentations, then ask questions and receive intelligent answers directly from the document content.
