@@ -1,19 +1,19 @@
 PrivateGPT – AI-Powered Private Document Intelligence System
 
-Overview
+#Overview
 
 PrivateGPT is an advanced AI-powered document intelligence system that enables users to interact with their documents using Natural Language Processing and Large Language Models (LLMs). The system allows users to upload PDFs, Word files, text documents, spreadsheets, and presentations, then ask questions and receive intelligent answers directly from the document content.
 
 Unlike cloud-based AI tools, this project focuses on privacy-first AI, where all processing can run locally without sending sensitive data to external servers.
 
-# Features
-# Document Processing
+## Features
+### Document Processing
 Upload and analyze PDF, DOCX, TXT, PPTX, CSV, and Excel files
 Intelligent document chunking and preprocessing
 Multi-document querying support
 Semantic search across uploaded files
 
-# AI & LLM Features
+### AI & LLM Features
 -Context-aware AI responses
 -Retrieval-Augmented Generation (RAG)
 -Local LLM integration
@@ -21,14 +21,14 @@ Semantic search across uploaded files
 -Conversation memory handling
 -Multi-turn AI chat experience
 
-# Privacy & Security
+### Privacy & Security
 -100% private document processing
 -Local execution support
 -Offline AI querying capability
 -No external data sharing
 -Secure document handling
 
-# Advanced Functionalities
+### Advanced Functionalities
 -Embedding-based vector search
 -Fast similarity matching
 -Streaming AI responses
@@ -36,14 +36,14 @@ Semantic search across uploaded files
 -Docker deployment support
 -Production-ready backend architecture
 
-# User Interface
+### User Interface
 -Interactive web-based UI
 -Real-time chat interface
 -Clean and responsive design
 -Simple document upload workflow
 -AI response streaming
 
-# Tech Stack
+### Tech Stack
 -Backend
   -Python
   -FastAPI
@@ -68,7 +68,7 @@ Semantic search across uploaded files
   -Docker Compose
   -Local Environment Setup
 
-# Project Structure
+## Project Structure
 private-gpt-main/
 │
 ├── private_gpt/          # Core application logic
