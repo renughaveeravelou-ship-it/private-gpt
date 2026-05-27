@@ -106,11 +106,17 @@ pip install -r requirements.txt
 
 ## How It Works
 1.User uploads documents
+
 2.System extracts text from files
+
 3.AI converts content into embeddings
+
 4.Data is stored in vector database
+
 5.User asks questions in chat
+
 6.AI retrieves relevant context
+
 7.LLM generates intelligent answers
 
 ## Advanced AI Concepts Used
