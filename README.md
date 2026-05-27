@@ -175,4 +175,5 @@ This project demonstrates practical implementation of:
 Renugha.v
 
 #### License
-This project is licensed under the MIT License.
+This project is for educational and research purposes only.
+
